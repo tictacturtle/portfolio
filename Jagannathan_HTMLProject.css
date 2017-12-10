@@ -1,0 +1,161 @@
+div {
+    border-radius:10px;
+}
+.block {
+    background-color: #E5BEEC;
+}
+
+h2{
+    text-align: left;
+    font-family: Arial;
+}
+
+p{
+    font-size: 14;
+}
+.border {
+    margin-top: 10;
+}
+.bb {
+    background-color: black;
+}
+.w {
+    color:white;
+}
+.w {
+    font-size: 12;
+}
+.gg {
+    background-color: gray;
+    color:gray;
+}
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+.ind {
+    text-indent: 15px;
+    font-size:14px;
+}
+.bottom {
+    height:50;
+    width:50;
+}
+body {
+    background-color:white;
+    margin:0;
+}
+.center {
+    text-align: center;
+
+}
+
+.center > li {
+    text-align:center;
+    margin:0 auto;
+}
+div.img {
+    border: 1px solid #ccc;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+desc {
+    text-align: center;
+}
+
+.mid {
+    vertical-align: middle;
+}
+#footer p {
+    padding-top: 15px;
+    position: relative;
+    color:#B57EDC;
+    font-size:20px;
+    font-family: Cursive;
+}
+.bot {
+    margin-bottom:50px;
+}
+a {
+    text-decoration:none;
+}
+.robot {
+    font-family:'Raleway',;
+    font-weight:900;
+    color:black;
+}
+.robotw {
+    font-family:'Raleway',;
+    font-weight:900;
+    color:black;
+}
+.robotww {
+    font-family:'Raleway',;
+    font-weight:900;
+    color:white;
+}
+.g {
+    color:#696969;
+    margin-left:50px;
+    margin-right:50px;
+    text-align:left;
+    margin-top:25px;
+}
+.resjum {
+    background: url(images/resumejumbo.jpg);
+    height:200px;
+    background-size: cover;
+}
+.homjum {
+    background: url(images/train.jpg);
+    height:200px;
+    background-size: cover;
+}
+.abtjum {
+    background: url(images/lion.jpg);
+    height:200px;
+    background-size: cover;
+}
+.projum {
+    background: url(images/gears.jpg);
+    height:200px;
+    background-size: cover;
+}
+.conjum {
+    background: url(images/coffee.jpg);
+    height:200px;
+    background-size: cover;
+}
+a:hover {
+    font-weight: bold;
+}
+ul {
+    list-style-position: inside;
+}
+
+.right {
+    float: left;
+    width:98%;
+    margin-top: 15px;
+}
+a:hover + div {
+    display: block;
+}
+
+.mpad {
+    padding:20px;
+    margin-bottom: 20px;
+}
+
+.proj {
+    margin-bottom:20px;
+}
