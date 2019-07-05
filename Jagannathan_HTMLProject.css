@@ -102,16 +102,32 @@ a {
     color:#FFC131;
     margin-left: 50px;
 }
+.robot1 {
+    font-family:'Raleway',;
+    font-weight:900;
+    color:#FFC131;
+    position:absolute;
+    left: 100px;
+    top:100px;
+
+}
 .robotw {
     font-family:'Raleway',;
     font-weight:900;
     color:white;
     position: absolute;
-    bottom: 300px;
     left: 100px;
     top: 50px;
     font-size: 50px;
-    
+  }
+  .robotw1 {
+    font-family:'Raleway',;
+    font-weight:900;
+    color:white;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    font-size: 50px;
   }
 
 .robotww {
