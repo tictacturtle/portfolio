@@ -99,7 +99,7 @@ a {
 .robot {
     font-family:'Raleway',;
     font-weight:900;
-    color:#505936;
+    color:#5c8a36;
     margin-left: 50px;
 }
 .robotw {
@@ -170,9 +170,11 @@ a:hover + div {
 .proj {
     margin-bottom:20px;
 }
-
-.nav-tabs .active  a{
-  background-color: #505936;
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover {
+   background-color: #5c8a36;
 }
+
 
 .highlight{ background-color: #d7cdff;}
