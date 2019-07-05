@@ -109,17 +109,16 @@ a {
     color:white;
     position: absolute;
     left: 100px;
-    top: 100px;
+    top: 200px;
     font-size: 50px;
   }
   .robotw1 {
     font-family:'Raleway',;
-    font-weight:900;
+    font-weight:700;
     color:white;
     position: absolute;
     left: 100px;
-    top: 200px;
-    font-size: 50px;
+    top: 250px;
   }
 
 .robotww {
