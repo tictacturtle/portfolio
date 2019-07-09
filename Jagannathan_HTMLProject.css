@@ -200,6 +200,7 @@ img {vertical-align: middle;}
   max-width: 1000px;
   position: relative;
   margin: auto;
+  align-content: left;
 }
 
 /* Next & previous buttons */
