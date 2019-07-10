@@ -189,3 +189,6 @@ a:hover + div {
 .right{
     float:right;
 }
+.marg{
+    margin-left: 100px;
+}
