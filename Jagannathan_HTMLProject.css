@@ -190,5 +190,8 @@ a:hover + div {
     float:right;
 }
 .marg{
-    margin-left: 100px;
+    font-family:'Raleway',;
+    font-weight:900;
+    color:gray;
+    margin-left: 50px;
 }
