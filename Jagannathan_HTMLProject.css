@@ -186,3 +186,6 @@ a:hover + div {
 .left{
     text-align:left;
 }
+.right{
+    float:right;
+}
