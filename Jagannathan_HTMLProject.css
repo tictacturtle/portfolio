@@ -20,7 +20,9 @@ p{
 
 .bb {
     background-color: black;
-    color:#dcd0ff;
+    font-family:'Raleway',;
+    font-weight:900;
+    color:#FFC131;
 }
 .lgray {
     background-color: #939393;
@@ -33,7 +35,7 @@ p{
     background-color: #ffffff;
 }
 .blue {
-    background-color: #afeeee;
+    background-color: #A8A8A8;
 }
 .gg {
     background-color: gray;
@@ -60,7 +62,7 @@ body {
     text-align: center;
 
 }
-.purp{background-color:#B57EDC;;}
+.purp{background-color:#696969;;}
 
 .center > li {
     text-align:center;
@@ -180,7 +182,7 @@ a:hover + div {
 }
 
 .mpad {
-    padding:20px;
+   /*padding:20px;*/
     margin-bottom: 20px;
 }
 
