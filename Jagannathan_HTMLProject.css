@@ -35,7 +35,8 @@ p{
     background-color: #ffffff;
 }
 .blue {
-    background-color: #A8A8A8;
+    background-color: #545454;
+    color: white;
 }
 .gg {
     background-color: gray;
@@ -62,7 +63,8 @@ body {
     text-align: center;
 
 }
-.purp{background-color:#696969;;}
+.purp{background-color:
+    #A8A8A8;}
 
 .center > li {
     text-align:center;
