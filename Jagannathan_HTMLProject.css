@@ -20,7 +20,13 @@ p{
 
 .bb {
     background-color: black;
-    color:#dcd0ff;
+    font-family:'Raleway',;
+    font-weight:900;
+    color:#FFC131;
+}
+.lgray {
+    background-color: #939393;
+    color: #939393;
 }
 .back {
     background-color: white;
@@ -29,7 +35,8 @@ p{
     background-color: #ffffff;
 }
 .blue {
-    background-color: #afeeee;
+    background-color: #545454;
+    color: white;
 }
 .gg {
     background-color: gray;
@@ -56,7 +63,8 @@ body {
     text-align: center;
 
 }
-.purp{background-color:#B57EDC;;}
+.purp{background-color:
+    #A8A8A8;}
 
 .center > li {
     text-align:center;
@@ -176,7 +184,7 @@ a:hover + div {
 }
 
 .mpad {
-    padding:20px;
+   /*padding:20px;*/
     margin-bottom: 20px;
 }
 
@@ -236,7 +244,7 @@ a:hover + div {
   
   /* Some left and right padding inside the container */
   .container {
-    padding: 0 16px;
+    padding: 0 10px;
   }
   
   /* Clear floats */
