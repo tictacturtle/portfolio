@@ -167,7 +167,7 @@ a:hover, a:visited, a:link, a:active
 }
 a:hover {
     font-weight: bold;
-    background-color:#d7cdff;
+    background-color:#FFC131;
 }
 ul {
     list-style-position: inside;
