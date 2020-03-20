@@ -47,10 +47,7 @@ p{
     float: left;
     width: 24.99999%;
 }
-.ind {
-    text-indent: 15px;
-    font-size:14px;
-}
+
 .bottom {
     height:50;
     width:50;
@@ -138,8 +135,8 @@ a:hover, a:visited, a:link, a:active
     /*margin-left:50px;
     margin-right:50px;*/
     text-align:left;
-    margin-top:20px;
-    margin-bottom:20px;
+    margin-top:25px;
+  
 }
 .resjum {
     background: url(images/resumejumbo.jpg);
