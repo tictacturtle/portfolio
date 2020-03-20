@@ -180,6 +180,7 @@ ul {
 a:hover + div {
     display: block;
     background-color: #FFC131;
+    color:black;
 }
 
 .mpad {
