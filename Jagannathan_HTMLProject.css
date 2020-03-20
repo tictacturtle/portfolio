@@ -272,3 +272,8 @@ a:hover + div {
   .button:hover {
     background-color: #555;
   }
+
+.card {
+    outline-color:#FFC131;
+    outline-style:outset;
+}
