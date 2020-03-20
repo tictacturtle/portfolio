@@ -273,9 +273,13 @@ a:hover + div {
     background-color: #555;
   }
 
+  .row1 {
+      display:flex;
+  }
 .card {
-    outline-style:solid;
-    outline-color:#FFC131;
-    outline-width:thick;
-    
+    border:solid;
+    border-color:#FFC131;
+    border-width:thick;
+    flex: 1; /* additionally, equal width */
+    padding: 1em;
 }
