@@ -274,6 +274,8 @@ a:hover + div {
   }
 
 .card {
-    outline-color:#FFC131;
     outline-style:outset;
+    outline-color:#FFC131;
+    outline-width:thick;
+    
 }
